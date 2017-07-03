@@ -9,6 +9,8 @@ Have fun... use demo for repro ... I won't explain how this works. Normally you 
 
 HOW TO USE:
 
-At a basic level .. just drop setup.exe and Report.wer on the desktop ... drop lpe.exe in the start-up folder ... run setup.exe.. and either wait very long time .. or restart. Restarting might fail if services are crashing before LPE.exe opens.
+At a basic level .. just drop setup.exe and Report.wer on the desktop ... drop lpe.exe in the start-up folder ... run setup.exe.. and either wait very long time .. or restart. Restarting might fail if services are crashing before LPE.exe opens... but there are all ways to solve this... use your creativity.
+
+
 
 
