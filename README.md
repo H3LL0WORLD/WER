@@ -1,6 +1,6 @@
 # WER
 
-This allows you to delete arbitrary files on a non-admin account.
+This allows you to delete arbitrary files on a non-admin account. (I think its still unpatched.. havn't tested but should be)
 
 You can potentially delete cross-user data (delete files from an admin!) .... trigger dll hijacking ... delete folders in programdata and lock them to the current user (shown in PoC)..
 delete drivers and cause a BSOD at start-up .. really fun thing to do with school computers.
